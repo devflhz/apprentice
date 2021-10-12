@@ -1,2 +1,2 @@
-# apprentice
-Apprentice program blog entries
+# encora
+Encora's blog posts

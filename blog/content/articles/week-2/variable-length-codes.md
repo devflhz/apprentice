@@ -16,9 +16,9 @@ Once a code has been assigned to a symbol, no other code can start with that sam
 
 Perhaps one of the most interesting things I learned this week was the Huffman tree. It's used to encode symbols in an efficient way.
 
-You start with a table of symbols and their frequencies, you start with the table sorted in ascending order by frequency.
+You start with a table of symbols and their frequencies; you start with the table sorted in ascending order by frequency.
 Then you take the last two elements of the table and combine them into a new symbol, which has those elements as children.
-You continue to do this with all the symbols until you have a single symbol left and all nodes have childrens.
+You continue to do this with all the symbols until you have a single symbol left and all nodes have children.
 
 Next, you assign a 0 to the left branch and a 1 to the right branch of each node.
 

@@ -18,6 +18,6 @@ Don't respond to provocative messages, you won't gain anything.
 
 # Perception
 
-Perception is very important, it can be key to the success of your project.
+Perception is very important; it can be key to the success of your project.
 
-Showing yourself as someonme trustworthy can get you a long way. Trust is what may define your success, if people trust you, they will most likely want support you or your ideas.
+Showing yourself as someone trustworthy can get you a long way. Trust is what may define your success, if people trust you, they will most likely want support you or your ideas.

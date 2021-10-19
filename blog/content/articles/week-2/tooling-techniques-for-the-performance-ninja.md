@@ -16,13 +16,13 @@ Get information on why your website is slow.
 
 ### Gather insight
 
-Turn that data into improvment ideas.
+Turn that data into improvement ideas.
 
 ### Take action
 
 Improve your website based on the insights you collected.
 
-# Three pilars of web performance
+# Three pillars of web performance
 
 ## Network
 

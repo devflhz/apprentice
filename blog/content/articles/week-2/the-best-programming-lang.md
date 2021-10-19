@@ -8,16 +8,16 @@ publishdate: 2021-10-18T17:21:00.000Z
 summary: There's no perfect programming language.
 ---
 
-# Criteria for chosing the "best" language
+# Criteria for choosing the "best" language
 
 ## Productivity
 
 Being able to prototype and test your code quickly is a must.
-You should also be aware of the capabilities of the language you're chosing.
+You should also be aware of the capabilities of the language you're choosing.
 
 ## Performance
 
-Performance is a consideration that should be taken into account when you need your code to be performant, worrying about performance when its not really a priority is not a good idea.
+Performance is a consideration that should be considered when you need your code to be performant, worrying about performance when it’s not really a priority is not a good idea.
 
 ## Reliability
 
@@ -26,7 +26,7 @@ This is not only about the program not crashing, but also about having predicabl
 
 ### PHP
 
-As it turns out, PHP is actually very performant and reliable in comparison to other languages, I didn't know this.
+As it turns out, PHP is very performant and reliable in comparison to other languages, I didn't know this.
 
 ## Portability
 
@@ -34,7 +34,7 @@ You should consider where you want to run your code and where you want to deploy
 
 ## Community
 
-Havinga a big community of people who are interested in the language is an essential factor, without a community, who do you ask for help?
+Having a big community of people who are interested in the language is an essential factor, without a community, who do you ask for help?
 
 ## What you already know
 

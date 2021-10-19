@@ -10,11 +10,11 @@ summary: A pervasive elitism hovers in the background of collaborative software 
 
 # Don't try to be a genius
 
-Brian and Ben talk about how any successul piece of software was never single-handedly created by a genius programmer, they've all had help from the community. Their advice is don't be afraid of collaboration.
+Brian and Ben talk about how any successful piece of software was never single-handedly created by a genius programmer, they've all had help from the community. Their advice is don't be afraid of collaboration.
 
 # Lose your ego
 
-There's this style of programming called Egoless Programming in which personal factors are minimized so that the quality may be improved. Programmers review each other's code in a way that personal feelings are put aside and the code is evaluated on its own merits.
+There's this style of programming called Egoless Programming in which personal factors are minimized so that the quality may be improved. Programmers review each other's code in a way that personal feelings are put aside, and the code is evaluated on its own merits.
 
 This often tends to lead to open communication, greater conformity and job satisfaction.
 
@@ -22,9 +22,9 @@ Having an ego is only going to make things more complicated, ego leads to a defi
 
 # Don't hide
 
-Wanting to be successful is something people strive for, but in otder to be successful we have to make some mistakes first. We all make mistakes and we've all been taught to hide them, mistakes are perceived as weaknesses and we don't want to look weak before others.
+Wanting to be successful is something people strive for, but in order to be successful we must make some mistakes first. We all make mistakes and we've all been taught to hide them; mistakes are perceived as weaknesses, and we don't want to look weak before others.
 
-When we are working with a team, mistakes are important, is what helps others not only see us a human beings, but also, mistakes can be a good way to learn from each other and prevent us from making the same mistakes again.
+When we are working with a team, mistakes are important, is what helps others not only see us a human being, but also, mistakes can be a good way to learn from each other and prevent us from making the same mistakes again.
 
 # Be vulnerable
 

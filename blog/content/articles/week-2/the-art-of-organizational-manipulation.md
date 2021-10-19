@@ -14,7 +14,7 @@ summary: Markov Chains Compression sits at the cutting edge of compression algor
 - Managers are not supposed to tell you what to do, they should remove blockers.
 - Leave your comfort zone and do things that are interesting to you.
 - Don't do everything you're told to do, question things.
-- Try employees like an adult, expect them to what they have to do.
+- Try employees like an adult, expect them to what they must do.
 - You should take risks, failing does not mean failure, it means you're learning.
 
 # Bad managers
@@ -35,7 +35,7 @@ Directional chaos, they have many people in charge, the goal is constantly movin
 
 ### Ask for forgiveness, not permission
 
-Take risks, do what you think it's right without asking permission, ask for forgiveness later if you have to.
+Take risks, do what you think it's right without asking permission, ask for forgiveness later if you must.
 
 ### Don't step in front of every train
 
@@ -51,7 +51,7 @@ Most companies have a ladder, there's a difference between doing the right thing
 
 ### Manage "upward" perception.
 
-Think about the perception of the people you work with, they are not the same as you and it matters a lot. Underpomise, overdeliver.
+Think about the perception of the people you work with; they are not the same as you and it matters a lot. Under promise, overdeliver.
 
 ### Make influential friends
 
@@ -63,11 +63,11 @@ These people are focused on connecting with others.
 
 #### The influencers
 
-They know how the company works, they know everybody and are able to influence in the background.
+They know how the company works, they know everybody and can influence in the background.
 
 ### Don't mess with administrative assistants
 
-Be polite, be nice, they can weild their executive power on you.
+Be polite, be nice, they can wield their executive power on you.
 
 ### Get in front of people
 

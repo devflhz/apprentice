@@ -27,7 +27,7 @@
 <meta name=twitter:title content="⚔️  The LZ77 Compression Family">
 <meta name=twitter:description content="Understanding compression algorithms means understanding how humans view and use data.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":2,"name":"Articles","item":"https://apprentice.edfloreshz.dev/articles/"},{"@type":"ListItem","position":3,"name":"⚔️  The LZ77 Compression Family","item":"https://apprentice.edfloreshz.dev/articles/lz77/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"⚔️  The LZ77 Compression Family","name":"⚔️  The LZ77 Compression Family","description":"Understanding compression algorithms means understanding how humans view and use data.","keywords":["compression","week-2"],"articleBody":"The idea of transforming data into a more compressable state is the heart of all modern compression theory, and the basis of all modern compression algorithms.\nGrouping simbols means looking at the data in pairs or groups of symbols. The objective here is to find the longest chains and the smallest entropy.\nLZ77 and LZ78 LZ77 and LZ78 are algorithms to find optimal tokenization of data, in 30+ years there hasn’t been a better algorithm for this, it makes the backbone of all modern usefull compressors.\nLZW Will maintain a dictionary of symbols always trying to optimize for the longest match possible.\nLZSS Will not omit a token if the token itself is longer than the string you’re trying to compress.\nLZMA Combines the LZ algorithm with markov chains to produce better compression.\n","wordCount":"133","inLanguage":"en","datePublished":"2021-10-17T16:17:00Z","dateModified":"2021-10-17T16:17:00Z","author":{"@type":"Person","name":"Eduardo Flores"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://apprentice.edfloreshz.dev/articles/lz77/"},"publisher":{"@type":"Organization","name":"edfloreshz","logo":{"@type":"ImageObject","url":"https://apprentice.edfloreshz.dev/images/favicon/favicon.png"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"⚔️  The LZ77 Compression Family","name":"⚔️  The LZ77 Compression Family","description":"Understanding compression algorithms means understanding how humans view and use data.","keywords":["compression","week-2"],"articleBody":"The idea of transforming data into a more compressible state is the heart of all modern compression theory, and the basis of all modern compression algorithms.\nGrouping symbols means looking at the data in pairs or groups of symbols. The objective here is to find the longest chains and the smallest entropy.\nLZ77 and LZ78 LZ77 and LZ78 are algorithms to find optimal tokenization of data, in 30+ years there hasn’t been a better algorithm for this, it makes the backbone of all modern useful compressors.\nLZW Will maintain a dictionary of symbols always trying to optimize for the longest match possible.\nLZSS Will not omit a token if the token itself is longer than the string you’re trying to compress.\nLZMA Combines the LZ algorithm with Markov chains to produce better compression.\n","wordCount":"133","inLanguage":"en","datePublished":"2021-10-17T16:17:00Z","dateModified":"2021-10-17T16:17:00Z","author":{"@type":"Person","name":"Eduardo Flores"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://apprentice.edfloreshz.dev/articles/lz77/"},"publisher":{"@type":"Organization","name":"edfloreshz","logo":{"@type":"ImageObject","url":"https://apprentice.edfloreshz.dev/images/favicon/favicon.png"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -77,16 +77,16 @@ October 17, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Eduardo Flores
 </div>
 </header>
 <div class=post-content>
-<p>The idea of transforming data into a more compressable state is the heart of all modern compression theory, and the basis of all modern compression algorithms.</p>
-<p>Grouping simbols means looking at the data in pairs or groups of symbols. The objective here is to find the longest chains and the smallest entropy.</p>
+<p>The idea of transforming data into a more compressible state is the heart of all modern compression theory, and the basis of all modern compression algorithms.</p>
+<p>Grouping symbols means looking at the data in pairs or groups of symbols. The objective here is to find the longest chains and the smallest entropy.</p>
 <h1 id=lz77-and-lz78>LZ77 and LZ78<a hidden class=anchor aria-hidden=true href=#lz77-and-lz78>#</a></h1>
-<p>LZ77 and LZ78 are algorithms to find optimal tokenization of data, in 30+ years there hasn&rsquo;t been a better algorithm for this, it makes the backbone of all modern usefull compressors.</p>
+<p>LZ77 and LZ78 are algorithms to find optimal tokenization of data, in 30+ years there hasn&rsquo;t been a better algorithm for this, it makes the backbone of all modern useful compressors.</p>
 <h3 id=lzw>LZW<a hidden class=anchor aria-hidden=true href=#lzw>#</a></h3>
 <p>Will maintain a dictionary of symbols always trying to optimize for the longest match possible.</p>
 <h3 id=lzss>LZSS<a hidden class=anchor aria-hidden=true href=#lzss>#</a></h3>
 <p>Will not omit a token if the token itself is longer than the string you&rsquo;re trying to compress.</p>
 <h3 id=lzma>LZMA<a hidden class=anchor aria-hidden=true href=#lzma>#</a></h3>
-<p>Combines the LZ algorithm with markov chains to produce better compression.</p>
+<p>Combines the LZ algorithm with Markov chains to produce better compression.</p>
 </div>
 <footer class=post-footer>
 <ul class=post-tags>

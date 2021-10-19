@@ -4,7 +4,7 @@ tags: [compression, week-2]
 layout: post
 url: articles/the-art-of-organizational-manipulation
 author: Eduardo Flores
-publishdate: 2021-10-17T18:01:00.000Z
+publishdate: 2021-10-18T14:01:00.000Z
 summary: Markov Chains Compression sits at the cutting edge of compression algorithms.
 ---
 
